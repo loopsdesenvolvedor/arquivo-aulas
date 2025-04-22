@@ -1,5 +1,8 @@
-# Calendario simples 
+# Calendario simples
+
 Exemplo:
+
+```c
 #include <stdio.h>
 
 int main()
@@ -34,4 +37,3 @@ int main()
         break;
     }
 }
- 
