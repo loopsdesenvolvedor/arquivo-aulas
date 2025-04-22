@@ -1,0 +1,38 @@
+# Compiled Object files
+*.o
+
+# Compiled Dynamic libraries
+*.so
+
+# Compiled Static libraries
+*.a
+
+# Executables (Linux/macOS)
+a.out
+*.out
+*.elf
+*.exe
+
+# Build folders (se você usar make, cmake, etc.)
+build/
+bin/
+obj/
+
+# Logs
+*.log
+
+# GDB (debugger)
+*.gdb
+*.dSYM/
+*.core
+
+# VSCode config
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Backup/temporary files
+*~
+*.swp
+*.bak
