@@ -49,10 +49,10 @@ int main()
 
 ## Calculadora simples
 
+```c
 #include <stdio.h>  // Biblioteca para entrada e saida. (printf e scanf)
 #include <string.h> // Biblioteca para manipular string. (strcmp)
 
-```c
 // função para calcular as operações.
 int calculator(int x, int y, char *operation)
 {
