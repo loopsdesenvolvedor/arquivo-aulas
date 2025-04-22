@@ -1,6 +1,6 @@
 # Comando de compilação
-gcc -g calculator.c -o calculator.exe => compilando.
-./calculator.exe => exemplo de como executar o arquivo.
+- gcc -g calculator.c -o calculator.exe => compilando.
+- ./calculator.exe => exemplo de como executar o arquivo.
 
 
 
